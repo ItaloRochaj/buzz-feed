@@ -36,7 +36,7 @@ O principal objetivo deste projeto é construir um clone do BuzzFeed Quizz utili
 - [x] **Componentização:** Dividir a aplicação em componentes reutilizáveis e bem estruturados.
 - [x] **Serviços:** Implementar serviços para gerenciar a lógica de negócios e a comunicação com APIs, se necessário.
 - [x] **Testes:** Escrever testes unitários utilizando frameworks como Jasmine e Karma.
-- [x] **Deploy:** Configurar e realizar o deploy da aplicação no Vercel.
+- [x] **Deploy:** Configurar e realizar o deploy da aplicação no Vercel. O link da aplicação depois de realizado o deploy https://buzz-feed-lemon.vercel.app/.
 
 **3. Testes Existentes:**
 `AppComponent Testes:`
