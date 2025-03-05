@@ -59,8 +59,8 @@ O principal objetivo deste projeto é construir um clone do BuzzFeed Quizz utili
 Este projeto é uma excelente oportunidade para praticar e aprimorar habilidades em Angular, desenvolvimento de front-end, testes unitários e deploy de aplicações web.
 
 ### 🖨️ Imagens do Projeto
-<img width="350" src="">
-<img width="350" src="">
+<img width="350" src="https://github.com/ItaloRochaj/decola-tech-2025/blob/main/desafio5-BuzzFeed/assets/imagem1.png">
+<img width="350" src="https://github.com/ItaloRochaj/decola-tech-2025/blob/main/desafio5-BuzzFeed/assets/imagem2.png">
 <img width="350" src="https://github.com/ItaloRochaj/decola-tech-2025/blob/main/desafio5-BuzzFeed/assets/testes.jpeg">
 <img width="350" src="https://github.com/ItaloRochaj/decola-tech-2025/blob/main/desafio5-BuzzFeed/assets/coverage.png">
 
